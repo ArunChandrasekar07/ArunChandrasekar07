@@ -62,10 +62,13 @@ current_focus:
 ## 🧠 GitMind — AI Repository Intelligence Platform
 ### Analyze any public GitHub repository end-to-end with AI
 
-**Live Demo:** https://gitmindai.vercel.app/  
+<a href="https://gitmindai.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/ArunChandrasekar07/gitmind">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>  
+</a>
 
 Full-stack AI SaaS that analyzes GitHub repositories, commit history, and code diffs to detect risk patterns and repository health.
 
