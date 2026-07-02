@@ -7,7 +7,7 @@
 <a href="https://arunc.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="[YOUR_RESUME_LINK](https://drive.google.com/file/d/1kw2KCagd3ftQzxTvYKdM0pq4VZkW292r/view?usp=drivesdk)">
+<a href="https://drive.google.com/file/d/1kw2KCagd3ftQzxTvYKdM0pq4VZkW292r/view?usp=drivesdk">
   <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 <a href="mailto:arun.c2023@vitstudent.ac.in">
@@ -227,11 +227,13 @@ Concurrency-safe reservation platform implementing **Wound-Wait deadlock prevent
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArunChandrasekar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArunChandrasekar07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=ArunChandrasekar07&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunChandrasekar07&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunChandrasekar07&theme=tokyo-night&hide_border=true" width="100%"/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunChandrasekar07&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
