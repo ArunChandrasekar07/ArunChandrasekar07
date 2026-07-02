@@ -19,20 +19,6 @@
 
 <br/><br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/ArunChandrasekar07?style=for-the-badge&logo=github&label=Followers&color=36BCF7"/>
-
-<img src="https://img.shields.io/github/stars/ArunChandrasekar07?style=for-the-badge&logo=github&label=Stars&color=36BCF7"/>
-
-<img src="https://img.shields.io/github/issues-pr/ArunChandrasekar07/gitmind?style=for-the-badge&logo=github&label=Pull%20Requests&color=36BCF7"/>
-
-</div>
-
-<br/>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Distributed+Systems+%7C+Concurrency+%7C+LLM+Orchestration;FastAPI+%2B+Next.js+%2B+PostgreSQL+%2B+RAG;Pre-Final+Year+Integrated+M.Tech+%40+VIT+Vellore;Open+to+SWE+%2F+AI+Engineering+Internships" />
 
 </div>
