@@ -63,7 +63,9 @@ current_focus:
 ### Analyze any public GitHub repository end-to-end with AI
 
 **Live Demo:** https://gitmindai.vercel.app/  
-**Repository:** https://github.com/ArunChandrasekar07/gitmind.git  
+<a href="https://github.com/ArunChandrasekar07/gitmind">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
 
 Full-stack AI SaaS that analyzes GitHub repositories, commit history, and code diffs to detect risk patterns and repository health.
 
