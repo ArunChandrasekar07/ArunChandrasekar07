@@ -241,7 +241,7 @@ Concurrency-safe reservation platform implementing **Wound-Wait deadlock prevent
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArunChandrasekar07/ArunProfile/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ArunChandrasekar07/ArunChandrasekar07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
