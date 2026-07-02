@@ -14,8 +14,12 @@ jobs:
 
     steps:
       - uses: Platane/snk@v3
-        with:
-          github_user_name: ArunChandrasekar07
+  with:
+    github_user_name: ArunChandrasekar07
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+    outputs: |
+      dist/github-contribution-grid-snake.svg
+      dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
