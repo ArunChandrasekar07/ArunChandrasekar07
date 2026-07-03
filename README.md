@@ -250,7 +250,7 @@ Concurrency-safe reservation platform implementing **Wound-Wait deadlock prevent
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 GitHub Activity
 
 <div align="center">
 
