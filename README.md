@@ -253,7 +253,7 @@ Concurrency-safe reservation platform implementing **Wound-Wait deadlock prevent
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArunChandrasekar07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://ghchart.rshah.org/36BCF7/ArunChandrasekar07" alt="GitHub contribution chart" width="85%"/>
 
 </div>
 
