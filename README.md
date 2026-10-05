@@ -248,8 +248,10 @@ Concurrency-safe reservation platform implementing **Wound-Wait deadlock prevent
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArunChandrasekar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunChandrasekar07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunChandrasekar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=450&line_height=21" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunChandrasekar07&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top languages"/>
+</div>
 
 </div>
 
